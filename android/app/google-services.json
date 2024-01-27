@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "184700476747",
+    "firebase_url": "https://lady-zainab-helping-hands-default-rtdb.firebaseio.com",
+    "project_id": "lady-zainab-helping-hands",
+    "storage_bucket": "lady-zainab-helping-hands.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184700476747:android:51dcb327780d4e835edcce",
+        "android_client_info": {
+          "package_name": "com.example.lzhh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPBi8F2dQBCPMUX55ANUpeILg6EYCeRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
